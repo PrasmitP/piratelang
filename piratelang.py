@@ -229,7 +229,7 @@ class PirateLangInterpreter:
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python pirate_lang.py <filename>")
+        print("Usage: python piratelang.py programs/<filename>")
         sys.exit(1)
     
     filename = sys.argv[1]

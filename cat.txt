@@ -1,3 +1,0 @@
-shout "Tell me your cats name, matey:"
-ask cat
-shout "Yarr! Ye told me: " + cat

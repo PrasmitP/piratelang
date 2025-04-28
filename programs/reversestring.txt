@@ -1,0 +1,13 @@
+shout "Give me a string to reverse, scallywag:"
+ask original
+
+reversed stash ""
+i stash original.length - 1
+
+loop if i >= 0 {
+    reversed stash reversed + original[i]
+    i stash i - 1
+}
+
+shout "Reversed string:"
+shout reversed

@@ -1,0 +1,8 @@
+shout "Enter first number to multiply:"
+ask num1
+shout "Enter second number to multiply:"
+ask num2
+
+result stash num1 * num2
+shout "The treasure be:"
+shout result
