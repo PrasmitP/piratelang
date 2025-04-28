@@ -35,5 +35,5 @@ PirateLang is a fun, pirate-themed programming language implemented in Python. P
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prasmit/piratelang.git
+   git clone https://github.com/PrasmitP/piratelang.git
    cd piratelang
