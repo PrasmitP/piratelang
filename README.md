@@ -1,6 +1,6 @@
 # PirateLang - A Pirate-Themed Interpreted Language
 
-PirateLang is a fun, pirate-themed programming language implemented in Python. Perfect for pirates who want to code while sailing the seven seas!
+PirateLang is a fun, pirate-themed programming language implemented in Python. Perfect for pirates who want to code while sailing the seas!
 
 ## Language Features
 
