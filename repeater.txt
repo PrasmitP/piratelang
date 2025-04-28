@@ -1,0 +1,10 @@
+shout "What character should I repeat, captain?"
+ask char
+shout "How many times, matey?"
+ask count
+
+i stash 0
+loop if i < count {
+    shout char
+    i stash i + 1
+}
